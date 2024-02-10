@@ -1,0 +1,21 @@
+{% extends 'model.html' %}
+{% block conteudo %}
+    <h1>Via GET</h1>
+    <form action="/autenticar" method="get">
+        Usuário: <input type="text" name="usuario"><br/>
+        Senha: <input type="password" name="senha"><br/>
+        <button type="submit">Entrar</button>
+    </form>
+
+    {% set mensagens = get_flashed_messages() %}
+    {% if mensagens %}
+        <div>Aqui vai aparecer a mensagem flash</div>
+    {% endif %}
+
+    <h1>Via POST</h1>
+    <form action="/autenticarviapost" method="post">
+        Usuário: <input type="text" name="usuario"><br/>
+        Senha: <input type="password" name="senha"><br/>
+        <button type="submit">Entrar</button>
+    </form>
+{% endblock %}

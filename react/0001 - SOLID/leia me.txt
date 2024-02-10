@@ -1,0 +1,33 @@
+O QUE É SOLID 
+https://www.youtube.com/watch?v=6SfrO3D4dHM
+
+EXEMPLO API UTILIZANDO METODO SOLID
+https://www.youtube.com/watch?v=vAV4Vy4jfkc
+
+
+npm init -y
+npm i express
+npm install --save @types/express
+npm install -g typescript
+npm i ts-node-dev --save-dev //para rodar typescript em ambiente de desenvolvimento
+npm i nodemailer
+npm i @types/nodemailer
+tsc --init
+
+no arquivo tsconfig.json
+
+{
+  "compilerOptions": {
+    "target": "ES2021",                              
+    "module": "commonjs",      
+    "allowJs": true,                      
+    "esModuleInterop": true,                             
+    "forceConsistentCasingInFileNames": true,            
+    "strict": true,                                  
+    "skipLibCheck": true                                 
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
+

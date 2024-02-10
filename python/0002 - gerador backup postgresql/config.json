@@ -1,0 +1,14 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "name": "siimeddb",
+        "user": "postgres",
+        "password": "teste"
+    },
+    "geral": {
+        "pg_dump_pathfull": "D:\\PostgreSQL\\10\bin\\pg_dump.exe",
+        "backup_path": "C:\\sistema\\backup\\",
+        "verificabd": 3
+    }
+}
