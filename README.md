@@ -1,28 +1,28 @@
 # Seja bem vindo  
-Neste repositório, você encontrará uma variedade de projetos desenvolvidos por mim, abrangendo diferentes áreas e tecnologias. Cada projeto está organizado em seu próprio diretório e possui seu próprio README com instruções específicas sobre como executar e utilizar o projeto.
+Neste repositório, você encontrará uma variedade de projetos desenvolvidos por mim, abrangendo diferentes áreas e tecnologias.
 
 ## Projetos Disponíveis
 
 ### Python
-- ***0001 - microblog*** Projeto para começar a conhecer a linguagem.
-- ***0002 - gerador backup postgresql*** Sistema que gera backup automaticamente no PostgreSQL.
+- ***[0001 - microblog](https://github.com/marcoskatayama/projetos/tree/main/python/0001%20-%20Microblog)*** 
+- ***[0002 - gerador backup postgresql](https://github.com/marcoskatayama/projetos/tree/main/python/0002%20-%20gerador%20backup%20postgresql)*** 
 
 ### React 
-- ***0001 - SOLID*** Projeto para demonstrar a estrutura SOLID. Fonte: [Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44](https://www.youtube.com/watch?v=vAV4Vy4jfkc)
+- ***[0001 - SOLID](https://github.com/marcoskatayama/projetos/tree/main/react/0001%20-%20SOLID)*** Projeto para demonstrar a estrutura SOLID. Fonte: [Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44](https://www.youtube.com/watch?v=vAV4Vy4jfkc)
 
 ### Arduino
-- ***0001 - Piscando Luz***
-- ***0002 - Piscando Luz com Botao***
-- ***0003 - Piscando Luz com Botao e Alto-Falante***
-- ***0004- Usando potenciometro/Usando potenciometro***
-- ***0005- Usando potenciometro com som***
-- ***0006 - RFID/RFIDColetandoInformacao***
+- ***[0001 - Piscando Luz](https://github.com/marcoskatayama/projetos/tree/main/arduino/0001%20-%20Piscando%20Luz)***
+- ***[0002 - Piscando Luz com Botao](https://github.com/marcoskatayama/projetos/tree/main/arduino/0002-%20Piscando%20Luz%20com%20Botao)***
+- ***[0003 - Piscando Luz com Botao e Alto-Falante](https://github.com/marcoskatayama/projetos/tree/main/arduino/0003%20-%20Piscando%20Luz%20com%20Botao%20e%20Alto-Falante)***
+- ***[0004- Usando potenciometro/Usando potenciometro](https://github.com/marcoskatayama/projetos/tree/main/arduino/0004-%20Usando%20potenciometro/Usando%20potenciometro)***
+- ***[0005- Usando potenciometro com som](https://github.com/marcoskatayama/projetos/tree/main/arduino/0005-%20Usando%20potenciometro%20com%20som/Usando%20potenciometro%20com%20som)***
+- ***[0006 - RFID/RFIDColetandoInformacao](https://github.com/marcoskatayama/projetos/tree/main/arduino/0006%20-%20RFID/RFIDColetandoInformacao)***
 
 ### C++
-- ***0001 - Agenda.cpp*** Projeto para começar a conhecer a linguagem.
+- ***[0001 - Agenda.cpp](https://github.com/marcoskatayama/projetos/tree/main/c%2B%2B)***
 
 ### Marketing Digital
-- ***001 - leni_doces_salgados*** Projeto desenvolvido para a empresa Leni Salgados, criando uma nova identidade visual.
+- ***[0001 - leni_doces_salgados](https://github.com/marcoskatayama/projetos/tree/main/marketing_digital/001%20-%20leni_doces_salgados)***
 
 ## Como Contribuir
 Se você gostaria de contribuir com algum dos projetos ou reportar problemas, por favor siga estes passos:
