@@ -5,7 +5,8 @@ Neste repositório, você encontrará uma variedade de projetos desenvolvidos po
 
 ### Python
 - ***[0001 - microblog](https://github.com/marcoskatayama/projetos/tree/main/python/0001%20-%20Microblog)*** 
-- ***[0002 - gerador backup postgresql](https://github.com/marcoskatayama/projetos/tree/main/python/0002%20-%20gerador%20backup%20postgresql)*** 
+- ***[0002 - gerador backup postgresql](https://github.com/marcoskatayama/projetos/tree/main/python/0002%20-%20gerador%20backup%20postgresql)***
+- ***[0003 - listen postgresql](https://github.com/marcoskatayama/projetos/tree/main/python/0003%20-%20listen%20postgresql)***
 
 ### React 
 - ***[0001 - SOLID](https://github.com/marcoskatayama/projetos/tree/main/react/0001%20-%20SOLID)*** Projeto para demonstrar a estrutura SOLID. Fonte: [Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44](https://www.youtube.com/watch?v=vAV4Vy4jfkc)
