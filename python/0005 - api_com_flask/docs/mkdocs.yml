@@ -1,0 +1,6 @@
+site_name: API com Flask
+site_url: https://localhost.com/
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
