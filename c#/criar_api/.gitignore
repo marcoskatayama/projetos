@@ -1,0 +1,33 @@
+# Ignorar arquivos de compilação e arquivos gerados
+bin/
+obj/
+*.exe
+*.pdb
+*.dll
+*.class
+*.swp
+
+# Ignorar arquivos de pacotes NuGet
+packages/
+
+# Ignorar arquivos de ferramentas Visual Studio
+.vs/
+
+# Ignorar arquivos de configuração de usuário
+*.user
+*.suo
+*.sln.docstates
+
+# Ignorar arquivos de log e cache
+*.log
+*.cache
+
+# Ignorar arquivos temporários
+*.tmp
+*~
+
+# Ignorar diretórios específicos
+_ReSharper*/
+*.ReSharper*/
+_TeamCity*/
+*.vscode/
