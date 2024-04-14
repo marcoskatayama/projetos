@@ -1,7 +1,5 @@
 # Bem vindo ao projeto de API em C#
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
 ## 1 Configurar projeto
 
 - Escolha novo projeto do tipo ASP.NET Core Web API
